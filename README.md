@@ -1,5 +1,5 @@
 <img align="left" width="10%" src="https://github.com/Gabbszzz/Img/blob/main/wc.gif"/>
-<img align="left" width="100%" alt="about" src="https://github.com/Gabbszzz/Img/blob/main/imagemTop.gif"/>
+<img align="left" width="100%" alt="about" src="https://64.media.tumblr.com/e3ef36d25f1a42cc3452f5c20b498dbb/479dc9e3ac621e80-7a/s540x810/678fe7984075b93e296fd1f7692babd974298c4a.gif"/>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!-- <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
