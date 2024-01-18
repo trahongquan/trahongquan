@@ -1,5 +1,5 @@
 <img align="left" width="10%" src="https://github.com/Gabbszzz/Img/blob/main/wc.gif"/>
-<!-- <img align="left" width="100%" alt="about" src="https://github.com/Gabbszzz/Img/blob/main/imagemTop.gif"/> -->
+<img align="left" width="100%" alt="about" src="https://github.com/Gabbszzz/Img/blob/main/imagemTop.gif"/>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!-- <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
@@ -265,16 +265,16 @@
 <br>
 <img align="center" src="https://github.com/Gabbszzz/Img/blob/main/planet.gif" width="200px">
 <br><br>
-<img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbszzz&langs_count=8&theme=tokyonight&hide_border=true">
+<img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trahongquan&langs_count=8&theme=tokyonight&hide_border=true">
 <div align="right">
   
-<img height="203px" src="https://github-readme-stats.vercel.app/api?username=Gabbszzz&show_icons=true&custom_title=Gabbrielly%20Github%20Stats&theme=tokyonight&hide_border=true">
-<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabbszzz&theme=tokyonight&hide_border=true">
+<img height="203px" src="https://github-readme-stats.vercel.app/api?username=trahongquan&show_icons=true&custom_title=Gabbrielly%20Github%20Stats&theme=tokyonight&hide_border=true">
+<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=trahongquan&theme=tokyonight&hide_border=true">
 </div>
 
 <div align="center">
     <br><p align="centre"><b>Visitors Count</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gabbszzz}/count.svg" /></p> 
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{trahongquan}/count.svg" /></p> 
     <br>
     </div>
 </details>
