@@ -1,7 +1,5 @@
 <img align="left" width="10%" src="https://github.com/Gabbszzz/Img/blob/main/wc.gif"/>
 <img align="left" width="100%" alt="about" src="https://64.media.tumblr.com/e3ef36d25f1a42cc3452f5c20b498dbb/479dc9e3ac621e80-7a/s540x810/678fe7984075b93e296fd1f7692babd974298c4a.gif"/>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 <!-- <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
 <img align="right" src="https://github.com/Gabbszzz/Img/blob/main/sobre.gif" width="313px" height="300px" alt="about me"> -->
 <!-- <table align="center">
@@ -16,14 +14,13 @@
     </td>
   </tr>
 </table> -->
-<ul align="left">
+<!-- <ul align="left">
     <li>🤩️ Amante de Tecnologia, Jogos, filmes, Animes e músicas 🤩️</li><br>
     <li>🚀 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev 🚀</li><br>
     <li>💻  💻 </li><br>
-  <!--  <li>🔮 🔮</li><br>-->
-</ul>
-<br>
-<br></br>
+   <li>🔮 🔮</li><br>
+</ul> -->
+
 <h2 align="center">
 <details open>
 <summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅｓ</i> &ensp;📈</summary>
@@ -38,15 +35,12 @@
 </div>
 
 <div align="center">
-    <br><p align="centre"><b>Visitors Count</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{trahongquan}/count.svg" /></p> 
+    <br><p align="centre"><b>Visitors Count</b></p>
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{trahongquan}/count.svg" /></p>
     <br>
     </div>
 </details>
-<br>
-<br>
-<br>
-<br>
+
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i> &ensp;🛠️</h2>
 <img align="left" height="295px" width="300px" alt="quote" src="https://github.com/Gabbszzz/Img/blob/main/tec.gif"/>
 <table align="right" height="300px">
@@ -186,8 +180,7 @@
       </sub>
     </td>
   </tr>-->
-</table> 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</table>
 
  <!--<h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏｓ</i> &ensp;💬</h2>
 <img align="left" width="220px" height="180px" src="https://github.com/Gabbszzz/Img/blob/main/pato.gif" alt="anime coding">
@@ -197,7 +190,7 @@
   
   <a href="https://www.linkedin.com/in/gabrielly-g-almeida/" alt="Linkedin" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin">
-  </a> 
+  </a>
  
  <a href="https://www.instagram.com/gabbs_zzz/?next=%2F" alt="Instagram" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
